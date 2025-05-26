@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    width: auto;
+}
+
+.header1 {
+    gap: 10px;
+}
+
+.header_sub {
+    /* padding: 10px; */
+    background-color: gray;
+    color: white;
+    width: auto;
+    height: auto;
+}
+
+.header_sub1 {
+    gap: 20px;
+}
+
+.header_sub1 img {
+    width: 40px;
+    height: 40px;
+}
+
+.header_sub2 img {
+    width: 20px;
+    height: 20px;
+}
+
+.header_sub2 button {
+    background-color: blue;
+    padding: 4px;
+    border-radius: 0px;
+
+}
+
+.header_sub3 img {
+    width: 80px;
+    height: 30px;
+}
+
+.header_subb {
+    background-color: #8080806e;
+}
+
+.header_subb .header_subb1 button {
+    background-color: blueviolet;
+    border-radius: 0px;
+}
+
+.header_subb .header_subb1 input {
+    color: blue;
+    width: 100%;
+}
+
+.header_subb .header_subb1 img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 3px;
+    top: 2px;
+}
+
+.header_subb .header_subb1 .input_section {
+    position: relative;
+
+}
+
+.header_subb .header_subb2 button {
+    border: none;
+    background-color: #80808000;
+}
+
+.header_subb .header_subb2 img {
+    width: 30px;
+    height: 30px;
+}
+
+.header_subb .header_subb3 .btn {
+    border-radius: 0px;
+}
+
+.content .card-body{
+    position: relative;
+    line-height: 10px;
+}
+
+.content .card-img-top12 {
+    position: absolute;
+    width:40px;
+    height:40px;
+    right: 3px;
+   top:6px;
+}
