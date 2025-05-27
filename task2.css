@@ -108,3 +108,24 @@ body {
     right: 3px;
    top:6px;
 }
+.footer{
+    background-color: black;
+    color: white;
+}
+.footer .footer1 ul{
+    list-style-type: none;
+    gap: 10px;
+    font-size: small;
+}
+.footer .footer_hr{
+    gap: 10px;
+    color: white;
+}
+.footer .footer_hr img{
+    height: 50px;
+    width: 50px;
+}
+.footer .social_media img{
+    height: 20px;
+    width: 20px;
+}
